@@ -21,4 +21,11 @@
     </family>
     <alias name="rubik-medium" to="rubik" weight="500" />
     <alias name="rubik-bold" to="rubik" weight="700" />
+    <!-- Exotwo -->
+    <family customizationType="new-named-family" name="exotwo">
+        <font weight="400" style="normal">Exotwo.ttf</font>
+    </family>
+    <alias name="exotwo-medium" to="exotwo" weight="500" />
+    <alias name="exotwo-semi-bold" to="exotwo" weight="600" />
+    <alias name="exotwo-bold" to="exotwo" weight="700" />
 </fonts-modification>
